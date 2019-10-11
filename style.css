@@ -1,0 +1,58 @@
+body
+{
+	font-family: Arial;
+	background-color: #e8e8e8;
+}
+
+.header
+{
+	font-size: 16px;
+}
+
+.comment
+{
+	font-size: 12px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.input_text
+{
+	width: 300px;
+}
+
+.input_textarea
+{
+	width: 300px;
+	height: 100px;
+}
+
+.input_button
+{
+	margin-top: 10px;
+}
+
+.title
+{
+	float: left;
+	width:100px;
+}
+.author_name
+{
+	
+	font-weight: bold;
+	font-size: 16px;
+}
+
+
+.comment_text
+{
+	clear: both;
+	margin-bottom: 20px;
+}
+
+.comment_email
+{
+	
+}
+
